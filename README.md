@@ -9,3 +9,5 @@ The data is split into training and testing sets using the `train_test_split()` 
 A logistic regression model is chosen for training using the `LogisticRegression()` class from scikit-learn. The model is trained on the training data using the `fit()` method.
 Model evaluation is performed by making predictions on both the training and testing data. The accuracy of the model is calculated using the `accuracy_score()` function from scikit-learn's metrics module. The accuracy scores for both the training and testing data are printed, providing an understanding of how well the model is performing in classifying customer churn.
 Overall, this project focuses on customer churn prediction using a logistic regression model, starting from data loading and preprocessing, followed by model training and evaluation.
+
+Follow me on linkedin: https://www.linkedin.com/in/youssef-husseiny-989a17257/
